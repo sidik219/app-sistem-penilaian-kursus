@@ -5,4 +5,4 @@ Backend:
 - Use PHP 7.3.6 [Native-CRUD]
 
 Frontend:
-- Use Boostrap 4, Vanila Admin Master.
+- Use Boostrap 4, Vali Admin Master.
